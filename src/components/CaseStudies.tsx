@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader } from './ui/card';
 import { Badge } from './ui/badge';
-import { Star, TrendingUp, Clock, DollarSign } from 'lucide-react';
+import { Star } from 'lucide-react';
 
 const caseStudies = [
   {
